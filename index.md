@@ -40,12 +40,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # About
-I'm currently a Ph.D. candidate in [Computer Science](http://cs.fsu.edu/) at [Florida State University](http://fsu.edu). My advisor is Prof. [Jiawei Zhang](http://www.ifmlab.org/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2018. I worked with Prof. [Zibin Zheng](http://www.zibinzheng.com/) and Dr. Chuan Chen during my undergrad.
+I'm currently a Ph.D. candidate in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon. 
 
-My primary research interests include **Graph Neural Networks**, **Fraud Detection** and **Recommender Systems**.
+My primary research interests include **Information Retrieval** and **Web Search Engine Techniques**.
 
-You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Please feel free to contact me for any discussion or collaboration.                   
-[Full CV](https://linmengsysu.github.io/Resume.pdf)
+You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to contact me for any discussion or collaboration.                   
+[Full CV](https://j9rrygou.github.io/Resume.pdf)
 
 # What's New
 * [04/2022] One paper is accepted by IJCNN'22.
