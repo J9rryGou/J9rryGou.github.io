@@ -48,7 +48,7 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
 [Full CV](https://j9rrygou.github.io/Resume.pdf)
 
 # What's New
-* [04/2022] To add.
+* [MM/YYYY] To add.
 
 
 # Education
