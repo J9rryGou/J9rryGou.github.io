@@ -45,7 +45,7 @@ I'm currently a Ph.D. candidate in [Computer Science and Engineering](https://en
 My primary research interests include **Information Retrieval** and **Web Search Engine Techniques**.
 
 You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to contact me for any discussion or collaboration.                   
-[Full CV](https://j9rrygou.github.io/Resume.pdf)
+[Resume](https://j9rrygou.github.io/Resume.pdf)
 
 # What's New
 * [MM/YYYY] To add.
