@@ -84,4 +84,4 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
 * To add. 
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=IGKM7piVRtoLmq7_DqwibQ0dbwkEMuvRrNEiZ2u6Jvo&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OtPNu119tUnejStRwwuEYRMF-6oNlptfUqM5-jzX1pE&cl=ffffff&w=a"></script>
