@@ -68,7 +68,8 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
  
  
 # Publications
-* **Realtime Mobile Bandwidth and Handoff Predictions in 4G/5G Networks**. Lifan Mei, **Jinrui Gou**, Yujin Cai, Houwei Cao, Yong Liu. 2021. [Paper Link](https://arxiv.org/abs/2104.12959)
+
+* Lifan Mei, **Jinrui Gou**, Yujin Cai, Houwei Cao, and Yong Liu. **Realtime mobile bandwidth and handoff predictions in 4G/5G networks.** Elsevier Computer Networks Journal (2022): 108736. [Paper Link](https://arxiv.org/abs/2104.12959)
 
 
 <!--
