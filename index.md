@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # About
-I'm currently a 4-th year Ph.D. candidate in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon in 2021. 
+I'm currently a fourth year Ph.D. candidate in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon in 2021. 
 
 My primary research interests include **Search Efficiency**, **Sparse Learned Index Optimization**, and **Efficienty Nearest Neighbor Search**.
 
@@ -48,8 +48,8 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
 [Resume](https://j9rrygou.github.io/Resume.pdf)
 
 # What's New
-* [MM/YYYY] To add.
-
+* **06.2024** Our workshop paper **DeeperImpact: Optimizing Sparse Learned Index Structures** just got accepted of the ReNeuIR at **SIGIR2024**, and is now on arXiv: [https://arxiv.org/abs/2405.18680](https://arxiv.org/abs/2405.18680). Create better learned sparse index with our strategy of optimizing document expansion and improving term importance prediction!
+* **07.2024** Had a lot of fun attending **SIGIR2024** at Washington D.C. and presenting in the workshop session ReNeuIR! Learned a lot from so many experts in IR, valuable experience!
 
 # Education
 
@@ -68,8 +68,11 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
  
  
 # Publications
-* **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, \textit{submitted to IEEE International Conference on Big Data 2024.}
-* Lifan Mei, **Jinrui Gou**, Yujin Cai, Houwei Cao, and Yong Liu. **Realtime mobile bandwidth and handoff predictions in 4G/5G networks.** Computer Networks Journal (2022): 108736. [Paper Link](https://arxiv.org/abs/2104.12959)
+* **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, *submitted to IEEE International Conference on Big Data 2024*.
+* Soyuj Basnet, **Jinrui Gou**, Antonio Mallia, and Torsten Suel, **DeeperImpact: Optimizing Sparse Learned Index Structures**, *in ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval*. [Paper Link](https://arxiv.org/abs/2405.17093)
+* Haya Diwan, **Jinrui Gou**, Cameron Musco, Christopher Musco, and Torsten Suel, **Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits**, *submitted to NeurIPS 2024: Conference on Neural Information Processing Systems, under Review*. [Paper Link](https://arxiv.org/abs/2405.18680)
+* Lifan Mei, **Jinrui Gou**, Yujin Cai, Houwei Cao, and Yong Liu. **Realtime mobile bandwidth and handoff predictions in 4G/5G networks.** *Computer Networks Journal (2022): 108736*. [Paper Link](https://arxiv.org/abs/2104.12959)
+* Lifan Mei, **Jinrui Gou**, Jingrui Yang, Yujin Cai, and Yong Liu, **On Routing Optimization in Networks with Embedded Computational Services**, *IEEE Transactions on Network and Service Management, accepted 2024*. [Paper Link](https://arxiv.org/abs/2210.03338)
 
 
 
