@@ -44,8 +44,9 @@ I'm currently a fourth year Ph.D. candidate in [Computer Science and Engineering
 
 My primary research interests include **Search Efficiency**, **Sparse Learned Index Optimization**, and **Efficient Nearest Neighbor Search**.
 
-You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to contact me for any discussion or collaboration.                   
-[Resume](https://j9rrygou.github.io/Resume.pdf)
+You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to contact me for any discussion or collaboration. 
+
+Attached please find my [resume](https://j9rrygou.github.io/Resume.pdf)
 
 # What's New
 * **\[06.2024\]** Our workshop paper **DeeperImpact: Optimizing Sparse Learned Index Structures** just got accepted of the ReNeuIR at **SIGIR2024**, and is now on arXiv: [https://arxiv.org/abs/2405.18680](https://arxiv.org/abs/2405.18680). Create better learned sparse index with our strategy of optimizing document expansion and improving term importance prediction!
