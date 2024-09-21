@@ -40,9 +40,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # About
-I'm currently a Ph.D. student in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon in 2021. 
+I'm currently a 4-th year Ph.D. candidate in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon in 2021. 
 
-My primary research interests include **Information Retrieval** and **Web Search Engine Techniques**.
+My primary research interests include **Search Efficiency**, **Sparse Learned Index Optimization**, and **Efficienty Nearest Neighbor Search**.
 
 You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to contact me for any discussion or collaboration.                   
 [Resume](https://j9rrygou.github.io/Resume.pdf)
@@ -68,8 +68,10 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
  
  
 # Publications
+* **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, \textit{submitted to IEEE International Conference on Big Data 2024.}
+* Lifan Mei, **Jinrui Gou**, Yujin Cai, Houwei Cao, and Yong Liu. **Realtime mobile bandwidth and handoff predictions in 4G/5G networks.** Computer Networks Journal (2022): 108736. [Paper Link](https://arxiv.org/abs/2104.12959)
 
-* Lifan Mei, **Jinrui Gou**, Yujin Cai, Houwei Cao, and Yong Liu. **Realtime mobile bandwidth and handoff predictions in 4G/5G networks.** Elsevier Computer Networks Journal (2022): 108736. [Paper Link](https://arxiv.org/abs/2104.12959)
+
 
 
 <!--
@@ -80,9 +82,9 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
 * **Scalable Heterogeneous Social Network Alignment through Synergistic Graph Partition**. Yuxiang Ren, **Lin Meng**, and Jiawei Zhang. 31st ACM Conference on Hypertext and Social Media (HT’20), Virtual Edition, July 13-15 2020, 2020.
 -->
 
-# Honors and Awards
+<!-- # Honors and Awards
 
-* To add. 
+* To add.  -->
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OtPNu119tUnejStRwwuEYRMF-6oNlptfUqM5-jzX1pE&cl=ffffff&w=a"></script>
