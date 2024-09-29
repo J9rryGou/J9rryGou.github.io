@@ -49,7 +49,7 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
 Attached please find my [resume](https://j9rrygou.github.io/Resume.pdf).
 
 # What's New
-* **\[06.2024\]** Our workshop paper **DeeperImpact: Optimizing Sparse Learned Index Structures** just got accepted of the ReNeuIR at **SIGIR2024**, and is now on arXiv: [https://arxiv.org/abs/2405.18680](https://arxiv.org/abs/2405.18680). Create better learned sparse index with our strategy of optimizing document expansion and improving term importance prediction!
+* **\[06.2024\]** Our workshop paper **DeeperImpact: Optimizing Sparse Learned Index Structures** just got accepted of the ReNeuIR at **SIGIR2024**, and is now on arXiv: [https://arxiv.org/abs/2405.17093](https://arxiv.org/abs/2405.17093). Create better learned sparse index with our strategy of optimizing document expansion and improving term importance prediction!
 * **\[07.2024\]** Had a lot of fun attending **SIGIR2024** at Washington D.C. and presenting in the workshop session ReNeuIR! Learned a lot from so many experts in IR, valuable experience!
 
 # Education
