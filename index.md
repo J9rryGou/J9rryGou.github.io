@@ -49,6 +49,7 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
 Attached please find my [resume](https://j9rrygou.github.io/Resume.pdf).
 
 # What's New
+* **\[10.2024\]** Our paper **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes** just got accepted in IEEE International Conference on Big Data (**BigData 2024**), see you in D.C!
 * **\[10.2024\]** Our paper **Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits** just got accepted in Advances in Neural Information Processing Systems (**NeurIPS 2024**), and is now on arXiv: [https://arxiv.org/abs/2405.18680](https://arxiv.org/abs/2405.18680).
 * **\[07.2024\]** Had a lot of fun attending **SIGIR2024** at Washington D.C. and presenting in the workshop session ReNeuIR! Learned a lot from so many experts in IR, valuable experience!
 * **\[06.2024\]** Our paper **DeeperImpact: Optimizing Sparse Learned Index Structures** is accepted in the workshop ReNeuIR at **SIGIR 2024**, and is now on arXiv: [https://arxiv.org/abs/2405.17093](https://arxiv.org/abs/2405.17093). Create better learned sparse index with our strategy of optimizing document expansion and improving term importance prediction!
@@ -70,8 +71,8 @@ Attached please find my [resume](https://j9rrygou.github.io/Resume.pdf).
  
  
 # Publications
-<!-- * **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, *submitted to IEEE International Conference on Big Data 2024*. -->
-* **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, *submitted for application*.
+* **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, *IEEE International Conference on Big Data, December 2024*.
+<!-- * **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, *submitted for application*. -->
 * Soyuj Basnet, **Jinrui Gou**, Antonio Mallia, and Torsten Suel, **DeeperImpact: Optimizing Sparse Learned Index Structures**, *in ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval, July 2024*. [Paper Link](https://arxiv.org/abs/2405.17093)
 * Haya Diwan, **Jinrui Gou**, Cameron Musco, Christopher Musco, and Torsten Suel, **Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits**, *NeurIPS 2024: Conference on Neural Information Processing Systems, December 2024*. [Paper Link](https://arxiv.org/abs/2405.18680)
 * Lifan Mei, **Jinrui Gou**, Yujin Cai, Houwei Cao, and Yong Liu. **Realtime mobile bandwidth and handoff predictions in 4G/5G networks.** *Computer Networks Journal, Februrary 2022*. [Paper Link](https://arxiv.org/abs/2104.12959)
