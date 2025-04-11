@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # About
-I'm currently a fourth year Ph.D. candidate in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon in 2021. 
+I'm currently a fourth year Ph.D. candidate in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon in 2021. 
 
 My primary research interests include **Search Efficiency**, **Sparse Learned Index Optimization**, and **Efficient Nearest Neighbor Search**.
 
@@ -49,6 +49,7 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
 Attached please find my [resume](https://j9rrygou.github.io/Resume.pdf).
 
 # What's New
+* **\[04.2025\]** Our paper **Fast and Effective Early Termination for Simple Ranking Functions** just got accepted in The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2025**), will be available on Arxiv soon!
 * **\[10.2024\]** Our paper **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes** just got accepted in IEEE International Conference on Big Data (**BigData 2024**), see you in D.C!
 * **\[10.2024\]** Our paper **Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits** just got accepted in Advances in Neural Information Processing Systems (**NeurIPS 2024**), and is now on arXiv: [https://arxiv.org/abs/2405.18680](https://arxiv.org/abs/2405.18680).
 * **\[07.2024\]** Had a lot of fun attending **SIGIR2024** at Washington D.C. and presenting in the workshop session ReNeuIR! Learned a lot from so many experts in IR, valuable experience!
