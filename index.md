@@ -72,6 +72,7 @@ Attached please find my [resume](https://j9rrygou.github.io/Resume.pdf).
  
  
 # Publications
+* **Jinrui Gou**, Antonio Mallia, Yifan Liu, Minghao Shao, and Torsten Suel, **Fast and Effective Early Termination for Simple Ranking Functions**, *ACM SIGIR 2025, July 2025*.
 * **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, *IEEE International Conference on Big Data, December 2024*. [Paper Link](https://arxiv.org/abs/2412.10701)
 <!-- * **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, *submitted for application*. -->
 * Haya Diwan, **Jinrui Gou**, Cameron Musco, Christopher Musco, and Torsten Suel, **Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits**, *NeurIPS 2024: Conference on Neural Information Processing Systems, December 2024*. [Paper Link](https://arxiv.org/abs/2405.18680)
