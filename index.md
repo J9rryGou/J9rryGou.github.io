@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # About
-I'm currently a fourth year Ph.D. candidate in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon in 2021. 
+I'm currently a final year Ph.D. candidate in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon in 2021. 
 
 My primary research interests include **Search Efficiency**, **Sparse Learned Index Optimization**, and **Efficient Nearest Neighbor Search**.
 
@@ -49,11 +49,12 @@ You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to
 Attached please find my [resume](https://j9rrygou.github.io/Resume.pdf).
 
 # What's New
-* **\[04.2025\]** Our paper **Fast and Effective Early Termination for Simple Ranking Functions** just got accepted in The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2025**), will be available on arXiv soon!
+* **\[09.2025\]** Our paper **Distance Adaptive Beam Search for Provably Accurate Graph-Based Nearest Neighbor Search** just got accepted in Advances in Neural Information Processing Systems (**NeurIPS 2025**), and is now on arXiv: [paper link](https://arxiv.org/abs/2505.15636).
+* **\[04.2025\]** Our paper **Fast and Effective Early Termination for Simple Ranking Functions** just got accepted in The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2025**), is now available in ACM library:[paper link](https://dl.acm.org/doi/10.1145/3726302.3730197).
 * **\[10.2024\]** Our paper **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes** just got accepted in IEEE International Conference on Big Data (**BigData 2024**), see you in D.C!
-* **\[10.2024\]** Our paper **Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits** just got accepted in Advances in Neural Information Processing Systems (**NeurIPS 2024**), and is now on arXiv: [https://arxiv.org/abs/2405.18680](https://arxiv.org/abs/2405.18680).
+* **\[10.2024\]** Our paper **Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits** just got accepted in Advances in Neural Information Processing Systems (**NeurIPS 2024**), and is now on arXiv: [paper link](https://arxiv.org/abs/2405.18680).
 * **\[07.2024\]** Had a lot of fun attending **SIGIR2024** at Washington D.C. and presenting in the workshop session ReNeuIR! Learned a lot from so many experts in IR, valuable experience!
-* **\[06.2024\]** Our paper **DeeperImpact: Optimizing Sparse Learned Index Structures** is accepted in the workshop ReNeuIR at **SIGIR 2024**, and is now on arXiv: [https://arxiv.org/abs/2405.17093](https://arxiv.org/abs/2405.17093). Create better learned sparse index with our strategy of optimizing document expansion and improving term importance prediction!
+* **\[06.2024\]** Our paper **DeeperImpact: Optimizing Sparse Learned Index Structures** is accepted in the workshop ReNeuIR at **SIGIR 2024**, and is now on arXiv: [paper link](https://arxiv.org/abs/2405.17093). Create better learned sparse index with our strategy of optimizing document expansion and improving term importance prediction!
 
 # Education
 
@@ -72,6 +73,7 @@ Attached please find my [resume](https://j9rrygou.github.io/Resume.pdf).
  
  
 # Publications
+* Yousef Al-Jazzazi, Haya Diwan, **Jinrui Gou**, Cameron Musco, Christopher Musco, Torsten Suel, **Distance Adaptive Beam Search for Provably Accurate Graph-Based Nearest Neighbor Search**, *NeurIPS 2025: Advances in Neural Information Processing Systems, December 2025*. [Paper Link](https://arxiv.org/abs/2505.15636)
 * **Jinrui Gou**, Antonio Mallia, Yifan Liu, Minghao Shao, and Torsten Suel, **Fast and Effective Early Termination for Simple Ranking Functions**, *ACM SIGIR 2025, July 2025*.
 * **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, *IEEE International Conference on Big Data, December 2024*. [Paper Link](https://arxiv.org/abs/2412.10701)
 <!-- * **Jinrui Gou**, Yifan Liu, Minghao Shao, and Torsten Suel, **Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes**, *submitted for application*. -->
