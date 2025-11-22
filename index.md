@@ -42,7 +42,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # About
 I'm currently a final year Ph.D. candidate in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/) at [the Tandon School of Engineering of New York University](https://engineering.nyu.edu/). My advisor is Prof. [Torsten Suel](https://engineering.nyu.edu/~suel/). Prior that, I graduated from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) (Zhongshan University) in 2019 and completed my Master Program Majored in Computer Science and Engineering at NYU Tandon in 2021. 
 
-My primary research interests include **Search Efficiency**, **Sparse Learned Index Optimization**, and **Efficient Nearest Neighbor Search**.
+<!-- My primary research interests include **Search Efficiency**, **Sparse Learned Index Optimization**, and **Efficient Nearest Neighbor Search**. -->
+My primary research interests include **Web Search Efficiency**, **Information Retrieval**, and **Nearest Neighbor Search**.
 
 You can reach me by [jg6226@nyu.edu](mailto:jg6226@nyu.edu). Please feel free to contact me for any discussion or collaboration. 
 
