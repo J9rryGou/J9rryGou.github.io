@@ -58,7 +58,7 @@ Attached please find my [resume](https://j9rrygou.github.io/Resume.pdf).
 * **\[06.2024\]** Our paper **DeeperImpact: Optimizing Sparse Learned Index Structures** is accepted in the workshop ReNeuIR at **SIGIR 2024**, and is now on arXiv: [paper link](https://arxiv.org/abs/2405.17093). Create better learned sparse index with our strategy of optimizing document expansion and improving term importance prediction!
 
 # Education
-
+    
 <dl>
  <dt>Department of Computer Science and Engineering, New York University</dt>
  <dd>Ph.D, Computer Science, 2021-Present.</dd>
